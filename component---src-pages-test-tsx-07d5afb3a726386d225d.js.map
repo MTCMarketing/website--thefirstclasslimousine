@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-test-tsx-07d5afb3a726386d225d.js","mappings":"yJAEA,cAAqBA,EAAAA,cAACC,EAAAA,YAAW,K","sources":["webpack://slap-kommerce-web/./src/pages/test.tsx"],"sourcesContent":["import React, { useState } from \"react\";\nimport { LandingPage } from \".\";\nexport default () => <LandingPage/>"],"names":["React","LandingPage"],"sourceRoot":""}
